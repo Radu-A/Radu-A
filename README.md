@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Radu-A, from Spain
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML and CSS
+- 👋 Hi, I’m @Radu-A, from A Coruña, Spain
+- 👀 I’m a Junior Web Developer
+- 🌱 I've just finished a Full-Stack Bootcamp at The Bridge, Madrid
 - 📫 How to reach me: elcastravete@gmail.com  
 
 <!---
