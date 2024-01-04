@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+junior+web+developer;Second+line+of+text)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @Radu-A, from A Coruña, Spain
 - 👀 I’m a Junior Web Developer
