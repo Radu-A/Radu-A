@@ -71,7 +71,7 @@ If you're looking for a junior developer who is **consistent, direct, reliable a
 
 ---
 
-### 🖼️ **GX – Galician Man in Seville**  
+### 🖼️ **Galician Man in Seville**  
 ⚛️ *React, Tailwind, Firebase*  
 🔗 **Live Demo:** https://galician-man-in-seville.vercel.app  
 💻 **Source Code:** https://github.com/Radu-A/galician-man-in-seville  
