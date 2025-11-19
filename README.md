@@ -64,33 +64,82 @@ If you're looking for a junior developer who is **consistent, direct, reliable a
 
 # 🚀 Featured Projects
 
-### 🎨 **CV Web**  
-🖥 *HTML, CSS, JavaScript*  
-🔗 **Live Demo:** https://victor-outeiro.vercel.app  
-💻 **Source Code:** https://github.com/Radu-A/cv-web  
+### **CV Web**
+
+<table>
+<tr>
+<td rowspan="1">
+<img src="./screenshot-cv-wide.png" width="300"/>
+</td>
+<td>
+
+🖥 <i>HTML, CSS, JavaScript</i><br/>
+🔗 <b>Live Demo:</b> https://victor-outeiro.vercel.app<br/>
+💻 <b>Source Code:</b> https://github.com/Radu-A/cv-web
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🖼️ **Galician Man in Seville**  
-⚛️ *React, Tailwind, Firebase*  
-🔗 **Live Demo:** https://galician-man-in-seville.vercel.app  
-💻 **Source Code:** https://github.com/Radu-A/galician-man-in-seville  
+### **Galician Man in Seville**
+
+<table>
+<tr>
+<td rowspan="1">
+<img src="./screenshot-galician-wide.png" width="300"/>
+</td>
+<td>
+
+⚛️ <i>React, Tailwind, Firebase</i><br/>
+🔗 <b>Live Demo:</b> https://galician-man-in-seville.vercel.app<br/>
+💻 <b>Source Code:</b> https://github.com/Radu-A/galician-man-in-seville
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🗂️ **ToDo List**  
-🛠 *HTML, CSS, JavaScript, Node.js, MongoDB*  
-🔗 **Live Demo:** https://todo-front-mu.vercel.app  
-💻 **Source Code:** https://github.com/Radu-A/todo-front  
+### **ToDo List**
+
+<table>
+<tr>
+<td rowspan="1">
+<img src="./screenshot-todo-wide.png" width="300"/>
+</td>
+<td>
+
+🛠 <i>HTML, CSS, JavaScript, Node.js, MongoDB</i><br/>
+🔗 <b>Live Demo:</b> https://todo-front-mu.vercel.app<br/>
+💻 <b>Source Code:</b> https://github.com/Radu-A/todo-front
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ☁️ **Weather App**  
-⚛️ *React, Tailwind & OpenWeather API*  
-🔗 **Live Demo:** https://weather-app-delta-pink-13.vercel.app  
-💻 **Source Code:** https://github.com/Radu-A/weather-app  
+### **Weather App**
+
+<table>
+<tr>
+<td rowspan="1">
+<img src="./screenshot-wheather-wide.png" width="300"/>
+</td>
+<td>
+
+⚛️ <i>React, Tailwind & OpenWeather API</i><br/>
+🔗 <b>Live Demo:</b> https://weather-app-delta-pink-13.vercel.app<br/>
+💻 <b>Source Code:</b> https://github.com/Radu-A/weather-app
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 # 📊 GitHub Stats
 
