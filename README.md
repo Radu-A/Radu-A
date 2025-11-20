@@ -124,6 +124,6 @@ I define myself by:
 ---
 
 <div align="center">
-  <p>🌍 <b>Galician in Seville</b> • 📸 <b>Photography Enthusiast</b> • ☕ <b>Coffee & Code</b></p>
+  <p>📧 <b>outeiro.victor@gmail.com</b> • 🔗 <b>https://linkedin.com/in/victor-outeiro</b> • 🐙 <b>https://github.com/Radu-A</b> • 🌐 <b>https://victor-outeiro.vercel.app</b></p>
   <p>Feel free to reach out!</p>
 </div>
