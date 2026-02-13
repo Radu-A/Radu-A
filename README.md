@@ -94,6 +94,7 @@ I define myself by:
 | Project | Description & Tech |
 | :---: | :---: |
 | <img src="./screenshot-cv-wide.png" width="250"/> | **CV Web**<br/>My personal digital resume and portfolio.<br/><br/>`HTML` `CSS` `JS`<br/>🔗 [Live Demo](https://victor-outeiro.vercel.app) • 💻 [Code](https://github.com/Radu-A/cv-web) |
+| <img src="./screenshot-product-list.png" width="250"/> | **Dummy App**<br/>Angular E-Commerce Demo.<br/><br/>`Angular` `RxJS` `Material Angular`<br/>🔗 [Live Demo](https://dummy-app-jade.vercel.app/) • 💻 [Code]([https://github.com/Radu-A/galician-man-in-seville](https://github.com/Radu-A/dummy-app)) |
 | <img src="./screenshot-galician-wide.png" width="250"/> | **Galician Man in Seville**<br/>A blog/guide platform for expats.<br/><br/>`React` `Tailwind` `Firebase`<br/>🔗 [Live Demo](https://galician-man-in-seville.vercel.app) • 💻 [Code](https://github.com/Radu-A/galician-man-in-seville) |
 | <img src="./screenshot-todo-wide.png" width="250"/> | **Full Stack ToDo**<br/>Task management with database persistence.<br/><br/>`Node` `Mongo` `Express`<br/>🔗 [Live Demo](https://todo-front-mu.vercel.app) • 💻 [Code](https://github.com/Radu-A/todo-front) |
 | <img src="./screenshot-wheather-wide.png" width="250"/> | **Weather App**<br/>Real-time weather tracking using API.<br/><br/>`React` `API Rest` `Tailwind`<br/>🔗 [Live Demo](https://weather-app-delta-pink-13.vercel.app) • 💻 [Code](https://github.com/Radu-A/weather-app) |
