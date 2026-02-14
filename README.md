@@ -29,7 +29,7 @@
 <td width="50%">
 
 ### 🇪🇸 Hola, soy Víctor (Radu-A)
-Soy **Desarrollador Web Junior** con sólidos conocimientos en Angular, RxJS, React, Tailwind, Node.js, Express, MongoDB y PostgreSQL. Vengo de entornos donde la comunicación, el trabajo en equipo y la resolución de incidencias eran parte del día a día, lo que me permite integrarme con facilidad en equipos de desarrollo.
+Soy **Desarrollador Web** con sólidos conocimientos en Angular, RxJS, React, Tailwind, Node.js, Express, MongoDB y PostgreSQL. Vengo de entornos donde la comunicación, el trabajo en equipo y la resolución de incidencias eran parte del día a día, lo que me permite integrarme con facilidad en equipos de desarrollo.
 
 Me defino por:
 * 👨‍💻 **Ganas de aprender**  
@@ -40,7 +40,7 @@ Me defino por:
 <td width="50%">
 
 ### 🇬🇧 Hi, I'm Víctor (Radu-A)
-I am a Junior Web Developer with a strong foundation in Angular, RxJS, React, Tailwind, Node.js, Express, MongoDB, and PostgreSQL. My background comes from environments where communication, teamwork, and troubleshooting were daily essentials—experience that allows me to seamlessly integrate into development teams.
+I am a Web Developer with a strong foundation in Angular, RxJS, React, Tailwind, Node.js, Express, MongoDB, and PostgreSQL. My background comes from environments where communication, teamwork, and troubleshooting were daily essentials—experience that allows me to seamlessly integrate into development teams.
 
 I define myself by:
 * 👨‍💻 **Eagerness to learn**  
